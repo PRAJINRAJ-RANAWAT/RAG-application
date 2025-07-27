@@ -10,7 +10,7 @@ An intelligent, interactive document Q\&A application built with **Python** and 
 
 
 
-Uploading Screen Recording 2025-07-27 at 6.59.28 PM.mov…
+Uploading Screen Recording 2025-07-27 at 6.59.28 PM.mov… 
 
 
 
