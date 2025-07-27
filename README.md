@@ -10,8 +10,7 @@ An intelligent, interactive document Q\&A application built with **Python** and 
 
 
 
-
-![WhatsAppVideo2025-07-27at7 03 07PM-ezgif com-resize](https://github.com/user-attachments/assets/2aa65a41-d147-4e05-ba0b-31dd44ea6fa0)
+![WhatsAppVideo2025-07-27at7 03 07PM-ezgif com-resize (1)](https://github.com/user-attachments/assets/e38fc411-2108-461f-ab7e-e732ccd0c707)
 
 
 
