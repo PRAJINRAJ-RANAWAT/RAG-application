@@ -8,7 +8,11 @@ An intelligent, interactive document Q\&A application built with **Python** and 
 
 ## ✨ Live Demo
 
-<img width="1440" height="900" alt="Screenshot 2025-07-27 at 1 11 24 PM" src="https://github.com/user-attachments/assets/d36a9e49-9eae-44aa-a7d0-cae2e4048a8a" />
+
+
+Uploading Screen Recording 2025-07-27 at 6.59.28 PM.mov…
+
+
 
 
 ---
