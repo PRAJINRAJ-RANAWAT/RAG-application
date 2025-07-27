@@ -9,7 +9,6 @@ An intelligent, interactive document Q\&A application built with **Python** and 
 ## ✨ Live Demo
 
 
-![WhatsAppVideo2025-07-27at7 03 07PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/339fba34-f9fb-4ef5-94e9-1dad60d3b8e5)
 
 
 ![WhatsAppVideo2025-07-27at7 03 07PM-ezgif com-resize](https://github.com/user-attachments/assets/2aa65a41-d147-4e05-ba0b-31dd44ea6fa0)
