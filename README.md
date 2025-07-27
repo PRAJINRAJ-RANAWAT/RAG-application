@@ -8,7 +8,8 @@ An intelligent, interactive document Q\&A application built with **Python** and 
 
 ## ✨ Live Demo
 
-> *(Replace this with a GIF of your running application for maximum impact!)*
+<img width="1440" height="900" alt="Screenshot 2025-07-27 at 1 11 24 PM" src="https://github.com/user-attachments/assets/d36a9e49-9eae-44aa-a7d0-cae2e4048a8a" />
+
 
 ---
 
@@ -162,10 +163,3 @@ streamlit run app.py
 
 ---
 
-## 📬 Feedback & Contributions
-
-Feel free to open an issue or submit a pull request if you'd like to contribute!
-
----
-
-Let me know if you'd like this converted to a markdown file or want a badge-enhanced version (e.g., using shields.io).
