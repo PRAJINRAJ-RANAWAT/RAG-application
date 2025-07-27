@@ -1,6 +1,4 @@
-Here's a more **aesthetically appealing** and **well-structured README** using **headings**, **bold text**, and clear **section breaks** to improve readability and visual appeal:
 
----
 
 # 🚀 Advanced RAG Q\&A System with Real-Time Evaluation
 
